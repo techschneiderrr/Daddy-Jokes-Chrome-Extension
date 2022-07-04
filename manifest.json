@@ -1,0 +1,20 @@
+{
+    "name":"daddyJokes",
+    "version":"1.0",
+    "description":"Dad Jokes",
+    "manifest_version":3,
+    "icons":{
+        "128":"logo.png"
+    },
+    "action":{
+        "default_popup":"popup.html",
+        "default_icon":"logo.png"
+    },
+    "background": {
+        "service_worker": "script.js"
+      },
+    "permissions":[
+        "activeTab"
+
+    ]
+}
