@@ -1,2 +1,2 @@
-# Daddy Jokes Chrome Extension
- It gives you jokes everytime you click on it 😂
+# Dad-Jokes-Chrome-Extension
+You click on this google chrome extension to get a random Joke every time 😂
